@@ -3,9 +3,11 @@
 http://www.mawen.co
 
 ## 资料
-https://spring.io/guides
-https://spring.io/guides/gs/serving-web-content/
+[springboot文档](https://spring.io/guides)
 
+[Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+
+[github创建一个授权app](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
 ## 工具
 IDAE
